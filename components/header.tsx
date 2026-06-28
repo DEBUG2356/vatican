@@ -21,11 +21,11 @@ const navLabels = {
 } as const
 
 const brandTagline = {
-  en: "by TicketCompass",
-  fr: "by TicketCompass",
-  de: "by TicketCompass",
-  es: "by TicketCompass",
-  it: "by TicketCompass",
+  en: "by TourCierge",
+  fr: "by TourCierge",
+  de: "by TourCierge",
+  es: "by TourCierge",
+  it: "by TourCierge",
 } as const
 
 const getNavLabel = (labels: ReturnType<typeof useLanguage>["t"]["nav"], key: keyof typeof navLabels) =>

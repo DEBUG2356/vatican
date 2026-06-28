@@ -506,15 +506,19 @@ export default function CookiePolicyPage() {
             </p>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                <strong>TicketCompass OÜ</strong>
+                <strong>TourCierge s. r. o.</strong>
               </li>
-              <li>Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn</li>
-              <li>Estonia</li>
+              <li>Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača</li>
+              <li>Slovakia</li>
               <li>
-                <strong>Tax Number:</strong> EE102778049
+                <strong>IČO:</strong> 57383898
               </li>
               <li>
-                <strong>Company Register:</strong> 17069651
+                <strong>DIČ:</strong> 2122693199
+              </li>
+              <li>
+                <strong>Company Register:</strong> Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č.
+                194953/B
               </li>
               <li>
                 <strong>Website:</strong> https://paristourpass.com

@@ -58,16 +58,20 @@ export default function DisclaimerPage() {
             <h2 className="text-lg font-semibold text-slate-900">6. Operator Details</h2>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                <strong>Operated by:</strong> TicketCompass OÜ
+                <strong>Operated by:</strong> TourCierge s. r. o.
               </li>
               <li>
-                <strong>Address:</strong> Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn, Estonia
+                <strong>Address:</strong> Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača, Slovakia
               </li>
               <li>
-                <strong>Tax Number:</strong> EE102778049
+                <strong>IČO:</strong> 57383898
               </li>
               <li>
-                <strong>Company Register:</strong> 17069651
+                <strong>DIČ:</strong> 2122693199
+              </li>
+              <li>
+                <strong>Company Register:</strong> Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č.
+                194953/B
               </li>
             </ul>
           </section>

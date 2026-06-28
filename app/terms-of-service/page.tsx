@@ -8,7 +8,7 @@ export default function TermsOfServicePage() {
         <h1 className="mt-2 text-3xl font-semibold tracking-tight">Terms and Conditions</h1>
         <p className="mt-4 text-sm leading-7 text-slate-600">
           These Terms and Conditions (&ldquo;T&amp;C&rdquo;) govern the use of services and the purchase of products
-          offered by <strong>TicketCompass OÜ</strong>. By using our services or purchasing
+          offered by <strong>TourCierge s. r. o.</strong>. By using our services or purchasing
           from us, you (&ldquo;Customer&rdquo;) agree to be bound by these terms.
         </p>
 
@@ -17,7 +17,7 @@ export default function TermsOfServicePage() {
             <h2 className="text-lg font-semibold text-slate-900">1. Introduction</h2>
             <p className="mt-2">
               These Terms and Conditions (&ldquo;T&amp;C&rdquo;) govern the use of services and the purchase of
-              products offered by <strong>TicketCompass OÜ</strong>. By using our services or purchasing from us, you
+              products offered by <strong>TourCierge s. r. o.</strong>. By using our services or purchasing from us, you
               (&ldquo;Customer&rdquo;) agree to be bound by these terms.
             </p>
           </section>
@@ -137,7 +137,7 @@ export default function TermsOfServicePage() {
             <h2 className="text-lg font-semibold text-slate-900">10. Governing Law &amp; Dispute Resolution</h2>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                These T&amp;C are governed by the laws of Estonia. Courts of Estonia shall have jurisdiction, without
+                These T&amp;C are governed by the laws of Slovakia. Courts of Slovakia shall have jurisdiction, without
                 prejudice to mandatory consumer rights in your country of residence.
               </li>
               <li>
@@ -154,19 +154,23 @@ export default function TermsOfServicePage() {
                 <strong>info@paristourpass.com</strong>
               </li>
               <li>
-                <strong>Company:</strong> TicketCompass OÜ
+                <strong>Company:</strong> TourCierge s. r. o.
               </li>
               <li>
-                <strong>Address:</strong> Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn
+                <strong>Address:</strong> Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača
               </li>
               <li>
-                <strong>Country:</strong> Estonia
+                <strong>Country:</strong> Slovakia
               </li>
               <li>
-                <strong>Tax Number:</strong> EE102778049
+                <strong>IČO:</strong> 57383898
               </li>
               <li>
-                <strong>Company Register:</strong> 17069651
+                <strong>DIČ:</strong> 2122693199
+              </li>
+              <li>
+                <strong>Company Register:</strong> Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č.
+                194953/B
               </li>
               <li>In case of discrepancies between language versions of these T&amp;C, the English version prevails.</li>
             </ul>

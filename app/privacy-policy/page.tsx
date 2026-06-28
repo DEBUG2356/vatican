@@ -11,13 +11,16 @@ export default function PrivacyPolicyPage() {
           <br />
           <strong>Website:</strong> paristourpass.com (the &ldquo;Website&rdquo;)
           <br />
-          <strong>Owner / Data Controller:</strong> TicketCompass OÜ
+          <strong>Owner / Data Controller:</strong> TourCierge s. r. o.
           <br />
-          <strong>Address:</strong> Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn, Estonia
+          <strong>Address:</strong> Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača, Slovakia
           <br />
-          <strong>Tax Number:</strong> EE102778049
+          <strong>IČO:</strong> 57383898
           <br />
-          <strong>Company Register:</strong> 17069651
+          <strong>DIČ:</strong> 2122693199
+          <br />
+          <strong>Company Register:</strong> Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č.
+          194953/B
           <br />
           <strong>Contact:</strong> info@paristourpass.com
         </p>
@@ -29,7 +32,7 @@ export default function PrivacyPolicyPage() {
               This Privacy Policy explains how we collect, use, disclose, and protect personal data when you visit
               or buy tickets on the Website, contact us (e.g., email or live chat), or otherwise use our services
               (collectively, the &ldquo;Services&rdquo;). We process personal data as a controller under the EU
-              General Data Protection Regulation (GDPR) and applicable Estonian/EU laws. If you have questions about
+              General Data Protection Regulation (GDPR) and applicable Slovak/EU laws. If you have questions about
               this Policy or your rights, contact us at the email above.
             </p>
           </section>
@@ -112,7 +115,7 @@ export default function PrivacyPolicyPage() {
               </li>
               <li>
                 <strong>Legal &amp; tax compliance:</strong> maintain invoices and accounting records; comply with
-                consumer protection and EU/Estonian tax rules; respond to lawful requests from authorities.
+                consumer protection and EU/Slovak tax rules; respond to lawful requests from authorities.
                 <br />
                 <em>Legal basis:</em> Legal obligation (Art. 6(1)(c)).
               </li>
@@ -244,7 +247,7 @@ export default function PrivacyPolicyPage() {
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
                 <strong>Orders, invoices, and payment records:</strong> retained for up to 8 years to comply with
-                Estonian/EU accounting and tax laws.
+                Slovak/EU accounting and tax laws.
               </li>
               <li>
                 <strong>Customer support communications:</strong> typically 3 years after resolution (unless needed
@@ -296,7 +299,7 @@ export default function PrivacyPolicyPage() {
               To exercise your rights, contact us at the email above. We may need to verify your identity.
               <br />
               If you believe your rights have been violated, you can lodge a complaint with your local supervisory
-              authority. In Estonia, this is the Estonian Data Protection Inspectorate. You may also seek a remedy
+              authority. In Slovakia, this is the Office for Personal Data Protection of the Slovak Republic. You may also seek a remedy
               before the competent courts.
             </p>
           </section>
@@ -348,19 +351,23 @@ export default function PrivacyPolicyPage() {
             <h2 className="text-lg font-semibold text-slate-900">15) Contact us</h2>
             <ul className="mt-2 list-disc space-y-1 pl-5">
               <li>
-                <strong>Data Controller:</strong> TicketCompass OÜ
+                <strong>Data Controller:</strong> TourCierge s. r. o.
               </li>
               <li>
                 <strong>Email:</strong> info@paristourpass.com
               </li>
               <li>
-                <strong>Postal address:</strong> Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn, Estonia
+                <strong>Postal address:</strong> Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača, Slovakia
               </li>
               <li>
-                <strong>Tax Number:</strong> EE102778049
+                <strong>IČO:</strong> 57383898
               </li>
               <li>
-                <strong>Company Register:</strong> 17069651
+                <strong>DIČ:</strong> 2122693199
+              </li>
+              <li>
+                <strong>Company Register:</strong> Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č.
+                194953/B
               </li>
             </ul>
           </section>

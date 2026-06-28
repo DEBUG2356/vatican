@@ -172,7 +172,7 @@ const enProducts: Record<string, ProductCopy> = {
 export const dictionaries: Record<Locale, Dictionary> = {
   en: {
     code: "en",
-    ownershipNotice: "ParisTourPass.com is owned and operated by TicketCompass.com. Independent site, not affiliated with the Louvre Museum.",
+    ownershipNotice: "ParisTourPass.com is owned and operated by TourCierge s. r. o. Independent site, not affiliated with the Louvre Museum.",
     nav: { tickets: "Tickets", gallery: "Gallery", discover: "Discover", contact: "Contact", bookNow: "Book Now" },
     hero: {
       titleTop: "Louvre, Eiffel Tower &",
@@ -257,7 +257,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
       legal: "Legal",
       disclaimer: {
         title: "Disclaimer",
-        text: "This website (paristourpass.com) operates as an independent provider of tourist services and is not affiliated with, sponsored by, authorized by, or operated by the Louvre Museum or any of its official managing entities. Our purpose is to enhance the visitor experience by offering independent services, including valid and official admission tickets and supplementary digital content such as audio guides. Ticket Validity: All tickets offered on this website are genuine and officially valid, procured through authorized distribution channels. Pricing: Our listed prices may incorporate additional costs covering management fees, early availability access, dedicated customer service, and the provision of digital materials. Trademarks: Trademarks, logos, and official names of the monuments mentioned are the exclusive property of their respective owners. They are used strictly for descriptive purposes only, with no intent to cause confusion or claim ownership. Operated by TicketCompass OÜ, Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn, Estonia, Tax Number: EE102778049, Company Register: 17069651.",
+        text: "This website (paristourpass.com) operates as an independent provider of tourist services and is not affiliated with, sponsored by, authorized by, or operated by the Louvre Museum or any of its official managing entities. Our purpose is to enhance the visitor experience by offering independent services, including valid and official admission tickets and supplementary digital content such as audio guides. Ticket Validity: All tickets offered on this website are genuine and officially valid, procured through authorized distribution channels. Pricing: Our listed prices may incorporate additional costs covering management fees, early availability access, dedicated customer service, and the provision of digital materials. Trademarks: Trademarks, logos, and official names of the monuments mentioned are the exclusive property of their respective owners. They are used strictly for descriptive purposes only, with no intent to cause confusion or claim ownership. Operated by TourCierge s. r. o., Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača, Slovakia, IČO: 57383898, DIČ: 2122693199, Company Register: Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č. 194953/B.",
       },
       accept: "We accept:",
       rights: "All rights reserved.",
@@ -271,7 +271,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
   },
   fr: {
     code: "fr",
-    ownershipNotice: "ParisTourPass.com est détenu et exploité par TicketCompass.com. Site indépendant, non affilié au musée du Louvre.",
+    ownershipNotice: "ParisTourPass.com est détenu et exploité par TourCierge s. r. o. Site indépendant, non affilié au musée du Louvre.",
     nav: { tickets: "Billets", gallery: "Galerie", discover: "Découvrir", contact: "Contact", bookNow: "Réserver" },
     hero: {
       titleTop: "Billets Louvre, tour Eiffel et",
@@ -356,7 +356,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
       legal: "Mentions légales",
       disclaimer: {
         title: "Avertissement",
-        text: "Ce site web (paristourpass.com) fonctionne comme un prestataire indépendant de services touristiques et n'est pas affilié, sponsorisé, autorisé ni exploité par le musée du Louvre ou l'une de ses entités officielles de gestion. Notre objectif est d'améliorer l'expérience des visiteurs en proposant des services indépendants, notamment des billets d'entrée valides et officiels ainsi que des contenus numériques complémentaires tels que des audioguides. Validité des billets : tous les billets proposés sur ce site sont authentiques et officiellement valides, obtenus par des canaux de distribution autorisés. Prix : nos prix affichés peuvent inclure des coûts supplémentaires couvrant les frais de gestion, l'accès anticipé aux disponibilités, le service client dédié et la fourniture de contenus numériques. Marques : les marques, logos et noms officiels des monuments mentionnés sont la propriété exclusive de leurs propriétaires respectifs. Ils sont utilisés uniquement à des fins descriptives, sans intention de créer une confusion ou de revendiquer un droit de propriété. Exploité par TicketCompass OÜ, Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn, Estonie, Tax Number : EE102778049, Company Register : 17069651.",
+        text: "Ce site web (paristourpass.com) fonctionne comme un prestataire indépendant de services touristiques et n'est pas affilié, sponsorisé, autorisé ni exploité par le musée du Louvre ou l'une de ses entités officielles de gestion. Notre objectif est d'améliorer l'expérience des visiteurs en proposant des services indépendants, notamment des billets d'entrée valides et officiels ainsi que des contenus numériques complémentaires tels que des audioguides. Validité des billets : tous les billets proposés sur ce site sont authentiques et officiellement valides, obtenus par des canaux de distribution autorisés. Prix : nos prix affichés peuvent inclure des coûts supplémentaires couvrant les frais de gestion, l'accès anticipé aux disponibilités, le service client dédié et la fourniture de contenus numériques. Marques : les marques, logos et noms officiels des monuments mentionnés sont la propriété exclusive de leurs propriétaires respectifs. Ils sont utilisés uniquement à des fins descriptives, sans intention de créer une confusion ou de revendiquer un droit de propriété. Exploité par TourCierge s. r. o., Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača, Slovaquie, IČO : 57383898, DIČ : 2122693199, Registre des sociétés : Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č. 194953/B.",
       },
       accept: "Nous acceptons :",
       rights: "Tous droits réservés.",
@@ -377,7 +377,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
   },
   de: {
     code: "de",
-    ownershipNotice: "ParisTourPass.com ist Eigentum von TicketCompass.com und wird von TicketCompass.com betrieben. Unabhängige Website, nicht mit dem Louvre-Museum verbunden.",
+    ownershipNotice: "ParisTourPass.com ist Eigentum von TourCierge s. r. o. und wird von TourCierge s. r. o. betrieben. Unabhängige Website, nicht mit dem Louvre-Museum verbunden.",
     nav: { tickets: "Tickets", gallery: "Galerie", discover: "Entdecken", contact: "Kontakt", bookNow: "Jetzt buchen" },
     hero: {
       titleTop: "Louvre, Eiffelturm &",
@@ -462,7 +462,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
       legal: "Rechtliches",
       disclaimer: {
         title: "Haftungsausschluss",
-        text: "Diese Website (paristourpass.com) wird als unabhängiger Anbieter touristischer Dienstleistungen betrieben und ist weder mit dem Louvre-Museum noch mit einer seiner offiziellen Verwaltungseinheiten verbunden, gesponsert, autorisiert oder von diesen betrieben. Unser Ziel ist es, das Besuchererlebnis durch unabhängige Dienstleistungen zu verbessern, einschließlich gültiger und offizieller Eintrittskarten sowie ergänzender digitaler Inhalte wie Audioguides. Ticketgültigkeit: Alle auf dieser Website angebotenen Tickets sind echt und offiziell gültig und werden über autorisierte Vertriebskanäle bezogen. Preise: Unsere angegebenen Preise können zusätzliche Kosten für Verwaltungsgebühren, frühzeitigen Verfügbarkeitszugang, engagierten Kundenservice und die Bereitstellung digitaler Materialien enthalten. Marken: Marken, Logos und offizielle Namen der genannten Sehenswürdigkeiten sind ausschließliches Eigentum ihrer jeweiligen Inhaber. Sie werden nur zu beschreibenden Zwecken verwendet, ohne Verwechslungsabsicht oder Eigentumsanspruch. Betrieben von TicketCompass OÜ, Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn, Estland, Tax Number: EE102778049, Company Register: 17069651.",
+        text: "Diese Website (paristourpass.com) wird als unabhängiger Anbieter touristischer Dienstleistungen betrieben und ist weder mit dem Louvre-Museum noch mit einer seiner offiziellen Verwaltungseinheiten verbunden, gesponsert, autorisiert oder von diesen betrieben. Unser Ziel ist es, das Besuchererlebnis durch unabhängige Dienstleistungen zu verbessern, einschließlich gültiger und offizieller Eintrittskarten sowie ergänzender digitaler Inhalte wie Audioguides. Ticketgültigkeit: Alle auf dieser Website angebotenen Tickets sind echt und offiziell gültig und werden über autorisierte Vertriebskanäle bezogen. Preise: Unsere angegebenen Preise können zusätzliche Kosten für Verwaltungsgebühren, frühzeitigen Verfügbarkeitszugang, engagierten Kundenservice und die Bereitstellung digitaler Materialien enthalten. Marken: Marken, Logos und offizielle Namen der genannten Sehenswürdigkeiten sind ausschließliches Eigentum ihrer jeweiligen Inhaber. Sie werden nur zu beschreibenden Zwecken verwendet, ohne Verwechslungsabsicht oder Eigentumsanspruch. Betrieben von TourCierge s. r. o., Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača, Slowakei, IČO: 57383898, DIČ: 2122693199, Handelsregister: Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č. 194953/B.",
       },
       accept: "Wir akzeptieren:",
       rights: "Alle Rechte vorbehalten.",
@@ -483,7 +483,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
   },
   es: {
     code: "es",
-    ownershipNotice: "ParisTourPass.com es propiedad de TicketCompass.com y está operado por TicketCompass.com. Sitio independiente, no afiliado al Museo del Louvre.",
+    ownershipNotice: "ParisTourPass.com es propiedad de TourCierge s. r. o. y está operado por TourCierge s. r. o. Sitio independiente, no afiliado al Museo del Louvre.",
     nav: { tickets: "Entradas", gallery: "Galería", discover: "Descubrir", contact: "Contacto", bookNow: "Reservar" },
     hero: {
       titleTop: "Entradas Louvre, Torre Eiffel y",
@@ -568,7 +568,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
       legal: "Legal",
       disclaimer: {
         title: "Aviso legal",
-        text: "Este sitio web (paristourpass.com) opera como proveedor independiente de servicios turísticos y no está afiliado, patrocinado, autorizado ni gestionado por el Museo del Louvre ni por ninguna de sus entidades oficiales de gestión. Nuestro objetivo es mejorar la experiencia del visitante ofreciendo servicios independientes, incluidas entradas válidas y oficiales y contenido digital complementario como audioguías. Validez de las entradas: todas las entradas ofrecidas en este sitio web son auténticas y oficialmente válidas, obtenidas a través de canales de distribución autorizados. Precios: nuestros precios publicados pueden incluir costes adicionales que cubren gastos de gestión, acceso anticipado a disponibilidad, atención al cliente dedicada y la provisión de materiales digitales. Marcas comerciales: las marcas, logotipos y nombres oficiales de los monumentos mencionados son propiedad exclusiva de sus respectivos titulares. Se utilizan únicamente con fines descriptivos, sin intención de causar confusión ni reclamar titularidad. Operado por TicketCompass OÜ, Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn, Estonia, Tax Number: EE102778049, Company Register: 17069651.",
+        text: "Este sitio web (paristourpass.com) opera como proveedor independiente de servicios turísticos y no está afiliado, patrocinado, autorizado ni gestionado por el Museo del Louvre ni por ninguna de sus entidades oficiales de gestión. Nuestro objetivo es mejorar la experiencia del visitante ofreciendo servicios independientes, incluidas entradas válidas y oficiales y contenido digital complementario como audioguías. Validez de las entradas: todas las entradas ofrecidas en este sitio web son auténticas y oficialmente válidas, obtenidas a través de canales de distribución autorizados. Precios: nuestros precios publicados pueden incluir costes adicionales que cubren gastos de gestión, acceso anticipado a disponibilidad, atención al cliente dedicada y la provisión de materiales digitales. Marcas comerciales: las marcas, logotipos y nombres oficiales de los monumentos mencionados son propiedad exclusiva de sus respectivos titulares. Se utilizan únicamente con fines descriptivos, sin intención de causar confusión ni reclamar titularidad. Operado por TourCierge s. r. o., Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača, Eslovaquia, IČO: 57383898, DIČ: 2122693199, Registro mercantil: Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č. 194953/B.",
       },
       accept: "Aceptamos:",
       rights: "Todos los derechos reservados.",
@@ -589,7 +589,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
   },
   it: {
     code: "it",
-    ownershipNotice: "ParisTourPass.com è di proprietà di TicketCompass.com ed è gestito da TicketCompass.com. Sito indipendente, non affiliato al Museo del Louvre.",
+    ownershipNotice: "ParisTourPass.com è di proprietà di TourCierge s. r. o. ed è gestito da TourCierge s. r. o. Sito indipendente, non affiliato al Museo del Louvre.",
     nav: { tickets: "Biglietti", gallery: "Galleria", discover: "Scopri", contact: "Contatti", bookNow: "Prenota" },
     hero: {
       titleTop: "Biglietti Louvre, Torre Eiffel e",
@@ -674,7 +674,7 @@ export const dictionaries: Record<Locale, Dictionary> = {
       legal: "Legale",
       disclaimer: {
         title: "Disclaimer",
-        text: "Questo sito web (paristourpass.com) opera come fornitore indipendente di servizi turistici e non è affiliato, sponsorizzato, autorizzato o gestito dal Museo del Louvre né da alcuna delle sue entità ufficiali di gestione. Il nostro obiettivo è migliorare l'esperienza dei visitatori offrendo servizi indipendenti, inclusi biglietti d'ingresso validi e ufficiali e contenuti digitali supplementari come audioguide. Validità dei biglietti: tutti i biglietti offerti su questo sito sono autentici e ufficialmente validi, acquistati tramite canali di distribuzione autorizzati. Prezzi: i prezzi indicati possono includere costi aggiuntivi relativi a commissioni di gestione, accesso anticipato alla disponibilità, servizio clienti dedicato e fornitura di materiali digitali. Marchi: marchi, loghi e nomi ufficiali dei monumenti citati sono di proprietà esclusiva dei rispettivi titolari. Sono utilizzati esclusivamente a scopo descrittivo, senza intenzione di creare confusione o rivendicare proprietà. Gestito da TicketCompass OÜ, Karamelli tn 2, 11317 Kesklinna linnaosa, Tallinn, Estonia, Tax Number: EE102778049, Company Register: 17069651.",
+        text: "Questo sito web (paristourpass.com) opera come fornitore indipendente di servizi turistici e non è affiliato, sponsorizzato, autorizzato o gestito dal Museo del Louvre né da alcuna delle sue entità ufficiali di gestione. Il nostro obiettivo è migliorare l'esperienza dei visitatori offrendo servizi indipendenti, inclusi biglietti d'ingresso validi e ufficiali e contenuti digitali supplementari come audioguide. Validità dei biglietti: tutti i biglietti offerti su questo sito sono autentici e ufficialmente validi, acquistati tramite canali di distribuzione autorizzati. Prezzi: i prezzi indicati possono includere costi aggiuntivi relativi a commissioni di gestione, accesso anticipato alla disponibilità, servizio clienti dedicato e fornitura di materiali digitali. Marchi: marchi, loghi e nomi ufficiali dei monumenti citati sono di proprietà esclusiva dei rispettivi titolari. Sono utilizzati esclusivamente a scopo descrittivo, senza intenzione di creare confusione o rivendicare proprietà. Gestito da TourCierge s. r. o., Karpatské námestie 10A, 831 06 Bratislava - mestská časť Rača, Slovacchia, IČO: 57383898, DIČ: 2122693199, Registro delle imprese: Obchodný register Mestského súdu Bratislava III, oddiel Sro, vložka č. 194953/B.",
       },
       accept: "Accettiamo:",
       rights: "Tutti i diritti riservati.",
